@@ -1,0 +1,20 @@
+{
+  "name": "react-error-boundary-lib",
+  "version": "1.0.0",
+  "description": "A robust error boundary component for React applications, providing graceful error handling and recovery across all React versions.",
+  "main": "index.js",
+  "author": "Harshit Srivastava",
+  "license": "ISC",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0 || ^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.6",
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "@babel/preset-react": "^7.24.7"
+  }
+}
