@@ -1,6 +1,6 @@
 {
   "name": "react-error-boundary-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A robust error boundary component for React applications, providing graceful error handling and recovery across all React versions.",
   "main": "index.js",
   "author": "Harshit Srivastava",
