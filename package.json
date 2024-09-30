@@ -16,5 +16,13 @@
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.4",
     "@babel/preset-react": "^7.24.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HarshitSrivastava007/react-error-boundary-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HarshitSrivastava007/react-error-boundary-lib/issues"
+  },
+  "homepage": "https://github.com/HarshitSrivastava007/react-error-boundary-lib"
 }
